@@ -1,0 +1,175 @@
+[ 2014-06-17T13:43:12+08:00 ] 0.0.0.0 /thinkphpyuan/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.002002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018412s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.011683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011754s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.002511s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.001113s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.001098s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.001285s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006144s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001386s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001434s ]
+
+[ 2014-06-17T13:46:24+08:00 ] 0.0.0.0 /thinkphpyuan/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001718s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.001347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001406s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.000735s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000733s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000625s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000784s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003004s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001060s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001107s ]
+
+[ 2014-06-17T13:46:39+08:00 ] 0.0.0.0 /thinkphpyuan/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+
+[ 2014-06-17T13:47:13+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:49:05+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:24+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:25+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:26+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:26+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:26+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:26+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:27+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:27+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:27+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:27+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:27+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:28+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:28+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:28+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:58+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:58+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:58+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:59+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:59+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:59+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:59+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:59+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:52:59+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:54:49+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:54:50+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:54:50+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:54:50+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:54:50+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:54:50+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:54:51+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:57:38+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:57:39+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:57:40+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:57:40+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:57:41+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:57:41+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:57:41+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:57:41+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:57:41+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:57:41+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:57:42+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T13:58:02+08:00 ] 0.0.0.0 /thinkphpyuan/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [8] Undefined variable: res E:\xampp\htdocs\thinkphpyuan\Home\Lib\Action\IndexAction.class.php 第 6 行.
+
+[ 2014-06-17T13:59:19+08:00 ] ERR: (ThinkException) 无法加载数据库驱动: DbSqlserver
+[ 2014-06-17T14:00:03+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:07+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:08+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:09+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:09+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:09+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:10+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:10+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:10+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:10+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:10+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:10+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:11+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:08:11+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:09:45+08:00 ] 0.0.0.0 /thinkphpyuan/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+
+[ 2014-06-17T14:12:44+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:18:44+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:18:45+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:18:45+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:18:46+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:18:46+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:18:46+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:18:46+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:18:46+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T14:18:47+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:36:35+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:38:52+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:38:52+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:38:53+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:38:53+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:38:53+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:38:53+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:38:53+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:38:54+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:40:06+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:40:53+08:00 ] 0.0.0.0 /thinkphpyuan/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001186s ]
+
+[ 2014-06-17T15:48:48+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:49+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:49+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:49+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:50+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:50+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:50+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:50+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:50+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:51+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:51+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:51+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:51+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:51+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:52+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:52+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:52+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:52+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:52+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:53+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:53+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:53+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:53+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:53+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:54+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:54+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:54+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:54+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:54+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:55+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:55+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:55+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:55+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:48:55+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:51:58+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:52:29+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:52:29+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:52:29+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:52:30+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:52:30+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:52:30+08:00 ] ERR: (ThinkException) 系统不支持:mssql
+[ 2014-06-17T15:52:30+08:00 ] ERR: (ThinkException) 系统不支持:mssql
