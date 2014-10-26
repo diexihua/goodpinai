@@ -97,8 +97,9 @@ body{background: #f4e9f9;}
 #data table .character span{width: 98px; height: 30px; display: inline-block; background: #e64150;
 	font-size: 16px; text-align: center; line-height: 30px; color: #fff; margin-left: 5px; margin-top: 5px
 }
-#data table tr{height: 50px;}
+#data table tr{height: 50px; }
 #data table tr td{ vertical-align: top;}
+#data table tr .vertical_c{ padding-top: 10px;}
 #data table tr .data_td1{width: 10%;}
 #data table tr .constellation{position: relative;}
 #data table tr .constellation_img{position: absolute; top: -10px;}
