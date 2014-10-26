@@ -8,10 +8,10 @@ body{background: #f4e9f9;}
 #content .line1{margin-left: -80px;}
 #content .line2{margin-left: 38px;}
 
-#wrap{width: 1050px; background: #fbfbfb; margin: 50px auto 100px; padding: 20px;}
-#wrap .w_left{width: 150px; float: left;}
-#wrap .w_nav li a{display: block; background-color: #ef698a; color: #fff; height: 58px; font-size: 16px; 
-	line-height: 58px; padding-left: 55px; background-repeat:no-repeat;
+#wrap{width: 1000px; background: #fbfbfb; margin: 50px auto 100px; padding: 20px;}
+#wrap .w_left{width: 140px; float: left;}
+#wrap .w_nav li a{display: block; background-color: #ef698a; color: #fff; height: 50px; font-size: 16px; 
+	line-height: 50px; padding-left: 55px; background-repeat:no-repeat;
 	background-position: 10px 17px; background-size: 24px 26px;
 }
 #wrap .w_nav li a:hover,#wrap .w_nav li .active{background-color: #de3861;}
@@ -24,10 +24,10 @@ body{background: #f4e9f9;}
 #download{margin-top: 44px; font-size: 14px; color: #777978; text-align: center;}
 #download img{margin-top: 26px; width: 107px; height: 107px;}
 
-#wrap .w_right{float: left; width: 880px; margin-left: 20px;}
+#wrap .w_right{float: left; width: 830px; margin-left: 20px;}
 #wrap .img{float: left;}
 #wrap .img img{ width: 152px; height: 150px; display: block;}
-#wrap .sgnin{float: right; width: 715px;}
+#wrap .sgnin{float: right; width: 665px;}
 #wrap .sgnin_top{ height: 30px; border: 1px solid #e1e1e1; background: #f1f2f2; position: relative;}
 #wrap .sgnin_top div{float: left; height: 30px; line-height: 30px; color:#626464; font-size: 16px;
 	margin-left: 20px;
@@ -46,15 +46,15 @@ body{background: #f4e9f9;}
 #instr div em{color: #feb300; text-decoration: underline;}
 #instr div strong{color: red;}
 
-#wrap .sgnin_con .comeon_title{position: absolute; color: #ef698a; font-size: 16px; top: 20px; left: 5px;}
+#wrap .sgnin_con .comeon_title{position: absolute; color: #ef698a; font-size: 16px; top: 4px; left: 5px;}
 #wrap .sgnin_con a{position: absolute; width: 72px; height: 22px;background: #ef698a; color: #fff;
 	 border-radius: 3px; text-align: center; line-height: 20px; font-size: 14px; left: 50%;
 	 margin-left: -36px; top: 56px;
 }
 #wrap .sgnin_con a:hover{background: #f08ba4;}
-#wrap .sgnin_con .pillars{float: right; width: 570px; height: 106px; position: relative;}
+#wrap .sgnin_con .pillars{float: right; width: 520px; height: 106px; position: relative;}
 
-#pillars_fixed{position: absolute; height: 22px; background: #5b5b5b; top: 56px; width: 500px; left: 40px;
+#pillars_fixed{position: absolute; height: 22px; background: #5b5b5b; top: 56px; width: 500px; left: -14px;
 	border: 1px solid #d3d4d4;
 }
 #pillars_fixed .num{position: absolute; width: 20px; height: 20px; text-align: center; line-height: 20px;
@@ -78,7 +78,7 @@ body{background: #f4e9f9;}
 #focuson_me .focuson_title{height: 42px; line-height: 42px; text-align: center; width: 152px; 
 	font-size: 22px; color: #939292; float: left;
 }
-#focuson_me .focuson_list{float: right; height: 42px; width: 715px; line-height: 42px; position: relative;}
+#focuson_me .focuson_list{float: right; height: 42px; width: 665px; line-height: 42px; position: relative;}
 #focuson_me .focuson_list img{width: 42px; height: 42px; display: inline-block; margin-right: 10px;}
 #focuson_me .focuson_list a{position: absolute; bottom: -14px; font-size: 14px; color: #939292;}
 #focuson_me .focuson_list a:hover{text-decoration: underline; color: #ef698a;}

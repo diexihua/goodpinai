@@ -1,0 +1,81 @@
+<?php if (!defined('THINK_PATH')) exit();?><!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link href="__PUBLIC__/Common/Css/reset.css" type="text/css" rel="stylesheet"/>
+	<link href="__PUBLIC__/Index/Css/style.css" type="text/css" rel="stylesheet"/>
+	<link href="__PUBLIC__/Common/Css/nav.css" type="text/css" rel="stylesheet"/>
+	<link href="__PUBLIC__/Common/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet">
+	<script src="__PUBLIC__/Index/Js/main.js"></script>
+	<title>聘爱网</title>
+</head>
+<body>
+	<div class="nav_left" id="nav_left">
+		<ul>
+			<li style="margin-top:56px;"><a href="#" class="gn-icon fa-home a">首页</a></li>
+			<li><a href="#" class="gn-icon fa-users a">去招聘</a></li>
+			<li><a href="#" class="gn-icon fa-heart a">晒幸福</a></li>
+			<li><a href="#" class="gn-icon fa-user a">个人信息</a></li>
+			<li><a href="#" class="gn-icon fa-download a">App下载</a></li>
+		</ul>
+	</div>
+
+	<div class="nav">
+		<div class="nav_main">
+			<img src="__PUBLIC__/Common/Img/nav_main_bg.png" id="nav_main"/>
+			<p>欢迎来到聘爱网!
+				<a href="#" id="signIn">登陆</a>
+				<a href="#" id="signUp">/</a>
+				<a href="#" id="signUp">注册</a>
+			</p>
+		</div>
+	</div>
+	<script src="__PUBLIC__/Common/js/nav.js"></script>
+	<div class="content_1" id="1">
+		<p> 这里不是拼脸的地方</br>
+			寻找真爱请用
+		</p>
+		<img src="__PUBLIC__/Index/Img/xin1.png" class="xin1" id="xin1"/>
+		<img src="__PUBLIC__/Index/Img/xin2.png" class="xin2" id="xin2"/>
+		<img src="__PUBLIC__/Index/Img/xin3.png" class="xin3" id="xin3"/>
+	</div>
+	<div class="content_2" id="2">
+		<img src="__PUBLIC__/Index/Img/boy.png" id="boy"/>
+		<!-- <img src="__PUBLIC__/Index/Img/boy.png"/> -->
+		<p>这里是爱升华的地方</br>
+			我们主张“心灵美”
+		</p>
+	</div>
+	<div class="content_3" id="3">
+		<div>
+			<p>聘列为妻，妻者</p>
+			<p>夫之爱也，爱生活也</p>
+		</div>
+		<img src="__PUBLIC__/Index/Img/girl.png" id="girl"/>
+	</div>
+	<div class="content_4" id="4">
+		<img src="__PUBLIC__/Index/Img/love.png">
+		<div>
+			<p>这里不是商场</p>
+			<p>我们真正为你寻找靠谱的爱</p>
+		</div>
+	</div>
+	<div class="content_5" id="5">
+		<div>
+			<a class="android left" href="#">安卓客户端下载</a>
+			<a class="ios right" href="#">苹果客户端下载</a>
+			<a href="#" class="EPS">立即体验</a>
+		</div>
+	</div>
+	<div class="footer">
+		<p>Copyright © 2013 - 2014 All rights reserved. 哈尔滨精灵科技有限公司</p>
+	</div>
+</body>
+<script src="__PUBLIC__/Common/Js/jquery-1.11.1.min.js"></script>
+<script src="__PUBLIC__/Common/Js/jquery.scrollto.js"></script>
+<script type="text/javascript">
+	function scroll(id){
+	    $("#"+id).ScrollTo(1000);
+	}
+</script>
+</html>
